@@ -11,15 +11,3 @@ btnIncrement.addEventListener('click', () => {
   counterValue += 1;
   valueSpan.textContent = counterValue;
 });
-console.log(valueSpan);
-console.log(btnDecrement);
-
-console.log(btnIncrement);
-
-console.log();
-
-console.log();
-
-console.log();
-
-console.log();
